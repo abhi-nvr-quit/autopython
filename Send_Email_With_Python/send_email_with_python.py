@@ -4,7 +4,7 @@
 '''
 [INFORMATION]
 Send Email With Python
-AUTHOR : Wing
+AUTHOR :  Wing
 GitHub : https://github.com/wing324
 Email : wing324@126.com
 '''
